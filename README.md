@@ -10,7 +10,7 @@ Proyek ini membangun sistem web server sederhana berbasis **Debian Linux** yang 
 
 Permintaan dari pengguna diterima HAProxy terlebih dahulu, lalu dibagi secara bergantian ke dua backend Nginx agar beban tidak menumpuk di satu server. Selain itu, script monitoring mencatat penggunaan CPU, RAM, penyimpanan, serta status layanan ke dalam log/laporan sehingga gangguan bisa terdeteksi lebih awal.
 
-Penjelasan lengkap (arsitektur, konsep Sistem Operasi, fitur, cara instalasi, dan pengujian) ada di [PENJELASAN.md](Penjelasan-tentang-projek.md).
+Penjelasan lengkap (arsitektur, konsep Sistem Operasi, fitur, cara instalasi, dan pengujian) ada di [Penjelasan-tentang-projek.md](Penjelasan-tentang-projek.md).
 
 ## Tim (Kelompok 3)
 
